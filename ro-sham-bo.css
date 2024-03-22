@@ -1,0 +1,8 @@
+#rock-button, #paper-button, #scissors-button {
+	color: black;
+	font-size: 16px;
+	line-height: 16px;
+	padding: 6px;
+	border-radius: 10px;
+	font-family: 'Lato';
+}
